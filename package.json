@@ -1,22 +1,21 @@
 {
-  "name": "wechaty-getting-started",
+  "name": "NeteaseCloudMusicBot",
   "version": "1.0.0",
-  "description": "Wechaty is super easy to use, especially when you are using Docker.    This repo contains the code about the video tutorial.",
-  "main": "index.js",
+  "description": "Wechaty is super easy to use, especially when you are using Docker.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lijiarui/wechaty-getting-started.git"
+    "url": "git+https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "SunnyMarkLiu",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lijiarui/wechaty-getting-started/issues"
+    "url": "https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/issues"
   },
-  "homepage": "https://github.com/lijiarui/wechaty-getting-started#readme",
+  "homepage": "https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot#readme",
   "dependencies": {
     "qrcode-terminal": "^0.11.0",
     "wechaty": "^0.7.3",
