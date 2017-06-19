@@ -7,8 +7,9 @@ The song's name you send to the bot, a beautiful picture which contains song's l
 
 ## Result
 
-![result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1289016222.jpg)
-![result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1613396675.jpg)
+<div align=center>
+<img src="images/1289016222.jpg" width="280" height="443"/> <img src="images/1613396675.jpg" width="280" height="213"/> <img src="images/28695603.png" width="280" height="443"/>
+</div>
 
 ## How To Use
 
