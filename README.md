@@ -7,14 +7,14 @@ The song's name you send to the bot, a beautiful picture which contains song's l
 
 ## Result
 
-[result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1289016222.jpg)
-[result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1613396675.jpg)
+![result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1289016222.jpg)
+![result](https://github.com/SunnyMarkLiu/NeteaseCloudMusicBot/blob/master/images/1613396675.jpg)
 
 ## How To Use
 
-- 1. Download ![STHeiti-Light.ttc](http://vdisk.weibo.com/s/umRnjgAYnq1Sl) and put it in `res` directory.
-- 2. Run `npm install` to install dependencies.
-- 3. Run `node bot.ts` to fire the bot.
+1. Download [STHeiti-Light.ttc](http://vdisk.weibo.com/s/umRnjgAYnq1Sl) and put it in `res` directory.
+2. Run `npm install` to install dependencies.
+3. Run `node bot.ts` to fire the bot.
 
 ## References
 
